@@ -141,4 +141,4 @@ Untuk mencoba aplikasi, Anda bisa menggunakan kredensial berikut atau mendaftar 
 └── requirements.txt      # Daftar dependensi Python
 ```
 
-Semoga dokumentasi ini bermanfaat\!
+
