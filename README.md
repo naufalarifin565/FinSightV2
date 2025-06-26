@@ -140,5 +140,7 @@ Untuk mencoba aplikasi, Anda bisa menggunakan kredensial berikut atau mendaftar 
 ├── landing.html          # Halaman landing untuk pengunjung
 └── requirements.txt      # Daftar dependensi Python
 ```
+## Tampilan Landing Page
+![image](https://github.com/user-attachments/assets/99a5bcbd-402f-49d6-ab61-a0c511fc2a06)
 
 
