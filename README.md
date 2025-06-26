@@ -1,5 +1,12 @@
 # FinSight: Aplikasi Manajemen Keuangan dan Rekomendasi Bisnis Berbasis AI untuk UMKM
 
+# Link Hosting: https://finsightv2-production.up.railway.app/
+
+# Anggota Kelompok: 
+1. Farhan Arya Wicaksono (5054231011)
+2. Muhammad Naufal Arifin (5054231006)
+3. Jeremiah Kevin Alexander Jagardo Malau (5054231027)
+
 FinSight adalah sebuah aplikasi web yang dirancang khusus untuk membantu para pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia dalam mengelola keuangan mereka dengan lebih cerdas. Tidak hanya sebagai alat pencatatan keuangan, FinSight juga dilengkapi dengan fitur-fitur berbasis kecerdasan buatan (AI) untuk memberikan wawasan (insight), prediksi, dan rekomendasi yang dapat membantu pengembangan bisnis.
 
 Aplikasi ini dibangun menggunakan framework FastAPI untuk backend dan Vanilla JavaScript untuk frontend, serta ditenagai oleh database PostgreSQL.
